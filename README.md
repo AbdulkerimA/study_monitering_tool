@@ -2,4 +2,5 @@
 
 The intention of this tool is to help students in 
   * monitoring there study time 
-  * and how efficent they are 
+  * measuring how efficent they are 
+ by kip recording the study time of a book
