@@ -1,2 +1,5 @@
 # study_monitering_tool
-this tool is wiil be used to monotor your study time  
+
+The intention of this tool is to help students in 
+  * monitoring there study time 
+  * and how efficent they are 
